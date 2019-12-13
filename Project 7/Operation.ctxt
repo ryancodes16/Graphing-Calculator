@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Operation
+comment0.text=\r\n\ Operation.java\r\n\ Operation\ class\ that\ implements\ ExprNode\r\n\r\n\ @author\ Ryan\ Regier\r\n\ @date\ 12/2/2019\r\n\ CSCI\ 235,\ Wheaton\ College,\ Fall\ 2019\r\n\ Project\ 7\r\n
+comment1.params=operator\ left\ right
+comment1.target=Operation(char,\ ExprNode,\ ExprNode)
+comment1.text=\r\n\ Constructor\r\n@param\ char,\ ExprNode,\ ExprNode\r\n
+comment2.params=x
+comment2.target=double\ evaluate(double)
+comment2.text=\r\n\ Returns\ the\ value\ of\ left\ and\ right\ with\ the\ operator\r\n\ @return\ double\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GraphCalc
+comment1.params=
+comment1.target=GraphCalc()
+comment1.text=\r\n\ Constructor\r\n\ @param\ none\r\n\ @return\ none\r\n\ Creates\ JFrame\ window,\ makes\ textfields\ for\ reading\ input,\ creates\ GUI\ layout\ for\ graphing\ calculator\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Main\ method\r\n\ Creates\ new\ GraphCalc\ object\ to\ run\ GUI\r\n\ @param\ String[]\ args\r\n
+numComments=3

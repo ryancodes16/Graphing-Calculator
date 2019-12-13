@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Interpreter
+comment0.text=\r\n\ Interpreter.java\r\n\r\n\ Class\ to\ generate\ ExprNode\ trees\ based\ on\ a\ given\r\n\ input.\r\n\r\n\ @author\ Ryan\ Regier\r\n\ CSCI\ 235,\ Wheaton\ College,\ Fall\ 2019\r\n\ Project\ 7\r\n\ Date\ 12/2/2019\r\n
+comment1.params=input
+comment1.target=ExprNode\ parse(java.lang.String)
+comment1.text=\r\n\ Turn\ a\ string\ into\ an\ ExprNode\ tree.\r\n\r\n\ @param\ input\ The\ string\ to\ parse\r\n\ @return\ The\ root\ of\ the\ ExprNode\ tree\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ For\ testing\ project\ 7\ (Part\ A).\r\n
+numComments=3

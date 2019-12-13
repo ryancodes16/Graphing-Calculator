@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Painter
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment1.text=\r\n\ Update\ the\ display\ using\ the\ given\ graphics\r\n\ object.\r\n\ @param\ g\ The\ graphics\ object\ to\ manipulate\r\n
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ExprNode
+comment0.text=\r\n\ ExprNode.java\r\n\r\n\ An\ interface\ to\ define\ the\ operation\ evaluate()\ on\r\n\ nodes\ in\ an\ expression\ tree.\r\n\ \r\n\ @author\ Thomas\ VanDrunen\r\n\ CSCI\ 235,\ Wheaton\ College,\ Fall\ 2019\r\n\ Project\ 7\r\n\ \r\n
+comment1.params=x
+comment1.target=double\ evaluate(double)
+numComments=2
